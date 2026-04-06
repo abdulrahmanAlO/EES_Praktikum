@@ -1,0 +1,9 @@
+../Core/Src/bno55.c:8:6:bno055_reset	1
+../Core/Src/bno55.c:15:6:bno055_init	1
+../Core/Src/bno55.c:43:6:bno055_deinit	1
+../Core/Src/bno55.c:50:9:bno055_getOperationMode	1
+../Core/Src/bno55.c:59:6:bno055_setOperationMode	1
+../Core/Src/bno55.c:66:7:bno055_getHeading	2
+../Core/Src/bno55.c:83:9:bno055_getTemp	2
+../Core/Src/bno55.c:98:19:bno055_writeData	1
+../Core/Src/bno55.c:105:19:bno055_readData	2
